@@ -1,1 +1,2 @@
-# wjd32.github.io
+alert(/XSS/);
+alert(document.cookie);
